@@ -1,5 +1,6 @@
 # Marketing Campaigns
 For the Maven Marketing Challenge, you will be assuming the role of a newly-hired BI consultant for Maven Marketing, a small digital marketing agency. Their latest marketing campaigns have underperformed, and they have brought you in to analyze their data and propose a solution.
+Data source: [Maven analytics](https://mavenanalytics.io/challenges/maven-marketing-challenge/19)
 
 ## Task
 Pitch your No.1 recommendation to improve the impact of future marketing campaigns, and show the analysis to support it.
