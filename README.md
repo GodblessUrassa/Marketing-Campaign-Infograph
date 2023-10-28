@@ -18,7 +18,7 @@ Pitch your No.1 recommendation to improve the impact of future marketing campaig
   
   > Campaign 4 - 7.5% good performance
   
-* Using the data (number of leads as the metric) to compare performance of campaigns that performed good with the one performed poorly
+* Using the data to compare performance of campaigns in different aspects like age groups, customer loyality, income, sales of products, channels, and location that performed good with the one performed poorly
 * Create an infograph to share the insights
 
 ## Visualization
