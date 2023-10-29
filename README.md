@@ -18,7 +18,7 @@ Pitch your No.1 recommendation to improve the impact of future marketing campaig
   
   > Campaign 4 - 7.5% good performance
   
-* Using the data to compare performance of campaigns in different aspects like age groups, customer loyality, income, sales of products, channels, and location that performed good with the one performed poorly
+* Using the data to know the reasons for difference in performance in campaign 2 and 4. The different was assessed in different aspects like age groups, customer loyality, income, sales of products, channels, and location.
 * Create an infograph to share the insights
 
 ## Visualization
