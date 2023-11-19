@@ -6,20 +6,16 @@ Data source: [Maven analytics](https://mavenanalytics.io/challenges/maven-market
 Pitch your No.1 recommendation to improve the impact of future marketing campaigns, and show the analysis to support it.
 
 ## Design and Approach
-* Calculate conversion rates for each campaign. Calculated by dividing the number of leads by the total number of people who were exposed to the campaigns
+Developed metrics
+* Website Convesion Rate. Is the number of purchases made through website to number of website visits in the last month
+* Channel performance. Is the number of purchases made through website, directly from the store, by using catalog, and discount
+* Leads. This is the number of customers who accepted the offer during marketing campaigns
 
-  **Conversion rates**
-  
-  > Campaign 1 - 6.4%
-  
-  > Campaign 2 - 1.3% poor performnce
-  
-  > Campaign 3 - 7.3%
-  
-  > Campaign 4 - 7.5% good performance
-  
-* Using the data to know the reasons for difference in performance in campaign 2 and 4. The different was assessed in different aspects like age groups, customer loyality, income, sales of products, channels, and location.
-* Create an infograph to share the insights
+Analysis
+* Sales by product
+* Customer loyalty
+* Number of customers by country
+* Number of customers by Marital Status
 
 ## Visualization
 ![](infograph.jpg)
